@@ -1,0 +1,18 @@
+
+/*ul {
+	display: inline-block;
+}*/
+
+li a:hover {
+	display: inline-block;
+	color:  red;
+	background-color: yellow;
+	width: 100px;
+}
+
+a:focus {
+	padding-left:  : 25px;
+	padding-right: 25px;*/
+	background-color: purple;
+	font-size: 70px;
+}
