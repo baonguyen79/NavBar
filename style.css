@@ -1,0 +1,23 @@
+
+li {
+	display: block;
+	text-align: center;
+	background-color: green;
+	margin: 20px;
+	width: 50px; 
+	border: 1px solid black;
+}
+
+a:hover {
+	color:  red;
+	background-color: yellow;
+	text-decoration: none;
+}
+
+li:active {
+	/*padding-left:  : 25px;
+	padding-right: 25px;*/*/
+	background-color: purple;
+	margin: 20px 15px;
+	width: 60px; 
+}
